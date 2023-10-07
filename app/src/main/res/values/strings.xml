@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Metric Converter</string>
+    <string name="choose_metric">Pilih Metrik</string>
+    <string name="choose_unit">--Pilih Satuan</string>
+
+    <string-array name="metrics">
+        <item>Panjang</item>
+        <item>Massa</item>
+        <item>Waktu</item>
+        <item>Arus Listrik</item>
+        <item>Suhu</item>
+        <item>Intensitas Cahaya</item>
+        <item>Jumlah Zat</item>
+
+    </string-array>
+
+    <string-array name="mass_units">
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Miligram</item>
+
+    </string-array>
+
+    <string-array name="time_units">
+        <item>Detik</item>
+        <item>Menit</item>
+        <item>Jam</item>
+
+    </string-array>
+
+    <string-array name="current_units">
+        <item>Ampere</item>
+        <item>Miliampere</item>
+
+    </string-array>
+
+    <string-array name="temperature_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+
+    </string-array>
+</resources>
